@@ -30,6 +30,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
+![VsCode Project](repo2.jpg)
 
-
-[def]: /ozcelikozlem/Documents/repo1.jpg "İlk Repo"
+```
+Patika.dev Hesabım : 
+https://app.patika.dev/ozcelikozlem 
+```
