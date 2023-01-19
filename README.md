@@ -32,7 +32,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ![VsCode Project](repo2.jpg)
 
+### Patika.dev Hesabım : 
 ```
-Patika.dev Hesabım : 
 https://app.patika.dev/ozcelikozlem 
 ```
